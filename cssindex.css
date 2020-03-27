@@ -9,9 +9,19 @@ body {
 }
 
 .mainpage {
-	max-width: 45em;
+	max-width: 35em;
 	text-align: center;
 	margin: 3em;
+}
+
+h2 {
+	font-family: 'Lato', sans-serif;
+	font-style: bold;
+	color: #FF6B6B;
+}
+
+#abt-blurb {
+	margin-top: 0em;
 }
 
 h1 a {
