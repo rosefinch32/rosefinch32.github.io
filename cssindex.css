@@ -24,9 +24,12 @@ a {
 	color: #4ECDC4;
 }
 
-#links a {
-	margin-left: 3em;
-	margin-right: 3em;
+#links {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	max-width: 100%;
+	min-width: 17em;
 }
 
 #me {
