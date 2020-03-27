@@ -28,3 +28,7 @@ a {
 	margin-left: 6em;
 	margin-right: 6em;
 }
+
+#me {
+	border-radius: 50%;
+}
