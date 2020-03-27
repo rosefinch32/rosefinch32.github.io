@@ -14,7 +14,7 @@ body {
 	margin: 3em;
 }
 
-h1 {
+h1 a {
 	font-family: 'Lato', sans-serif;
 	font-style: bold;
 	color: #FF6B6B;
@@ -32,6 +32,15 @@ a {
 	justify-content: space-between;
 	max-width: 100%;
 	min-width: 17em;
+}
+
+#socialmediaicons {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	min-width:5em;
+	text-align: center;
+	margin-top: 1.5em;
 }
 
 #me {
