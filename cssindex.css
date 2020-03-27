@@ -1,20 +1,23 @@
 body {
 	display: flex;
+	font-family: 'Roboto', sans-serif;
+	color: #292F36;
 	flex-direction: column;
 	align-items: center;
 }
 
 .mainpage {
-	display: flex;
 	max-width: 50em;
-	align-items: center;
+	text-align: center;
 }
 
 h1 {
 	font-family: 'Lato', sans-serif;
+	font-style: bold;
+	color: #FF6B6B;
 }
 
 a {
-	font-family: 'Roboto', sans-serif;
 	text-decoration: none;
+	color: #4ECDC4;
 }
