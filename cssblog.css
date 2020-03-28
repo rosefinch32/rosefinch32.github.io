@@ -1,5 +1,5 @@
 body {
-	background-image: url(dot-grid.png);
+	background: white;
 	background-repeat: repeat;
 	display: flex;
 	font-family: 'Roboto', sans-serif;
@@ -8,8 +8,13 @@ body {
 	align-items: center;
 }
 
-.mainpage {
+.blog {
 	max-width: 35em;
-	text-align: center;
+	text-align: left;
 	margin: 3em;
+	margin-bottom:0.5em;
+	border-bottom: solid;
+	border-color: #C1C1C1;
+	border-width: 0.1em;
 }
+

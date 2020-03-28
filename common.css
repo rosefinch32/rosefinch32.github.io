@@ -1,0 +1,51 @@
+.mainpage {
+	max-width: 35em;
+	text-align: center;
+	margin: 3em;
+}
+
+h2 {
+	font-family: 'Lato', sans-serif;
+	font-style: bold;
+	margin-bottom: 0em;
+	color: #FF6B6B;
+}
+
+#abt-long {
+	margin-top: 0em;
+}
+
+h1 a {
+	font-family: 'Lato', sans-serif;
+	font-style: bold;
+	color: #FF6B6B;
+	margin-bottom: 0.5em;
+}
+
+a {
+	text-decoration: none;
+	color: #4ECDC4;
+}
+
+#links {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	max-width: 100%;
+	min-width: 17em;
+}
+
+#socialmediaicons {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width:8em;
+	text-align: center;
+	margin-top: 1.5em;
+}
+
+#me {
+	margin-top: 3em;
+	width: 17em;
+	border-radius: 50%;
+}
