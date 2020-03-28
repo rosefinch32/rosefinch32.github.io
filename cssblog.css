@@ -18,8 +18,21 @@ body {
 	border-width: 0.1em;
 }
 
-#date {
-	margin: 0.1em;
+.blogphoto {
+	margin: 1em;
+	width:35em;
+}
+
+#bagel {
+	width: 15em;
+	margin-left: 0em;
+}
+
+#metstairs {
+	margin-top: 0em;
+	width: 15em;
+	float: right;
+	text-align: center;
 }
 
 #chelsea {
