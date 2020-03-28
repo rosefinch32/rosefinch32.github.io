@@ -11,6 +11,13 @@ h2 {
 	color: #FF6B6B;
 }
 
+h3 {
+	font-family: 'Lato', sans-serif;
+	font-style: bold;
+	margin-bottom: 0em;
+	color: #FF6B6B;
+}
+
 #abt-long {
 	margin-top: 0em;
 }
