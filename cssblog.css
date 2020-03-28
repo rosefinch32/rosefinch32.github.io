@@ -18,25 +18,27 @@ body {
 	border-width: 0.1em;
 }
 
+.image-gallery{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
+
+.post {
+	max-width: 35em;
+	text-align: left;
+	margin: 3em;
+}
+
 .blogphoto {
 	margin: 1em;
-	width:35em;
-}
-
-#bagel {
-	width: 15em;
-	margin-left: 0em;
-}
-
-#metstairs {
-	margin-top: 0em;
-	width: 15em;
-	float: right;
-	text-align: center;
+	min-width: 10em;
+	max-width: 35em;
 }
 
 #chelsea {
 	margin-top: 1em;
-	width: 35em;
+	width: 100%;
 }
 
