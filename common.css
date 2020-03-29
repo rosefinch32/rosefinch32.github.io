@@ -102,6 +102,10 @@ a {
 	text-align: left;
 }
 
+.gpa {
+	text-align: right;
+}
+
 #courses {
 	font-size: 10pt;
 }
