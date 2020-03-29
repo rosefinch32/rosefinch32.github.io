@@ -2,15 +2,18 @@ body {
 	background-image: url(whirlpool.png);
 	background-repeat: repeat;
 	display: flex;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Lora', serif;
 	color: #292F36;
 	flex-direction: column;
 	align-items: center;
 }
 
+#links {
+	font-family: 'Roboto', sans-serif;
+}
+
 #courses {
 	margin-top: 3em;
-	font-size: 10pt;
 	max-width: 35em;
 	margin-bottom: 3em;
 	text-align: left;
