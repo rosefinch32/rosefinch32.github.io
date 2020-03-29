@@ -59,7 +59,6 @@ a {
 	font-size: 16pt;
 	flex-direction: row;
 	justify-content: space-between;
-	font-style: bold;
 	max-width: 100%;
 	min-width: 14em;
 }
@@ -101,6 +100,10 @@ a {
 	margin-bottom: 3em;
 	max-width: 35em;
 	text-align: left;
+}
+
+#courses {
+	font-size: 10pt;
 }
 
 #sandwich {
