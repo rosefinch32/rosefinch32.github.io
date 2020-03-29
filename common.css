@@ -38,6 +38,7 @@ a {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
+	font-style: bold;
 	max-width: 100%;
 	min-width: 17em;
 }
