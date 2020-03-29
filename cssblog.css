@@ -9,13 +9,9 @@ body {
 }
 
 .blog {
+	margin-top: 3em;
 	max-width: 35em;
 	text-align: left;
-	margin: 3em;
-	margin-bottom:0.5em;
-	border-bottom: solid;
-	border-color: #C1C1C1;
-	border-width: 0.1em;
 }
 
 .image-gallery{
@@ -25,16 +21,24 @@ body {
 	flex-wrap: wrap;
 }
 
-.post {
-	max-width: 35em;
-	text-align: left;
-	margin: 3em;
+.blog .post {
+	margin-top: 0em;
+	max-width: 100%;
+	border-bottom: solid;
+	border-color: #C1C1C1;
+	border-width: 0.1em;
 }
 
-.blogphoto {
-	margin: 1em;
-	min-width: 10em;
+.post {
+	margin-top: 3em;
+	margin-bottom: 3em;
 	max-width: 35em;
+	text-align: left;
+}
+
+#sandwich {
+	margin-top: 1em;
+	width: 100%;
 }
 
 #chelsea {
